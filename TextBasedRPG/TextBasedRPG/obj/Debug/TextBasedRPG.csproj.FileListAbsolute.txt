@@ -1,7 +1,0 @@
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\TextBasedRPG.exe.config
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\TextBasedRPG.exe
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\bin\Debug\TextBasedRPG.pdb
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\TextBasedRPG.csproj.AssemblyReference.cache
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\TextBasedRPG.csproj.CoreCompileInputs.cache
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\TextBasedRPG.exe
-C:\Users\Ej Estimo\source\repos\TextBasedRPG\TextBasedRPG\obj\Debug\TextBasedRPG.pdb
