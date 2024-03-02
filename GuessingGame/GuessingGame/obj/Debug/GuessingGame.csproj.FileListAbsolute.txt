@@ -1,0 +1,7 @@
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Ej Estimo\source\repos\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
